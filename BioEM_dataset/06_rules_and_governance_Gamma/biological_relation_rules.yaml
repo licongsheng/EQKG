@@ -1,0 +1,11 @@
+# Biological Relation & Controlled Target Rules (A_bio, v3.0-1103)
+rule_version: "tri-anchored-v3-repaired-1103"
+controlled_dictionary_file: "../data/target_dictionary.csv"
+mechanistic_evidence_file: "../data/mechanism_evidence.csv"
+relation_basis_classes:
+  same_measurement_target:
+    requirement: "Identical controlled_target_id AND compatible sub-metric (separating count vs morphology, motility vs viability)"
+  related_measurement:
+    requirement: "Shared redox probe family (DCFH-DA vs MitoSOX vs Luminol), DNA lesion assay spectrum (alkaline vs neutral comet), or behavioral memory paradigm family"
+  external_mechanistic_support:
+    requirement: "Explicit entry in mechanism_evidence.csv with supporting DOI, quote, and context limitations; never inferred from co-location alone"

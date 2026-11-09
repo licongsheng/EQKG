@@ -1,0 +1,21 @@
+# Physical Anchor Comparison Rules (A_phys, v3.0-1103)
+rule_version: "tri-anchored-v3-repaired-1103"
+structured_fields_only: true
+prohibit_prose_string_comparison: true
+status_codes:
+  P1_WithinStudy_Same_Exposure_Arm_and_Preparation:
+    condition: "same paper_id AND same arm_id AND same experiment_id"
+  P1b_WithinStudy_Same_Nominal_Field_Different_Preparation_or_Batch:
+    condition: "same paper_id AND same arm_id AND different experiment_id"
+  P2_WithinStudy_Single_Experiment_Controlled_Physical_Contrast:
+    condition: "same paper_id AND same experiment_id AND different arm_id"
+  P2b_WithinStudy_Cross_Experiment_Different_Preparation_and_Protocol:
+    condition: "same paper_id AND different experiment_id AND different arm_id"
+  P3_CrossStudy_Exact_Carrier_Frequency_NonEquivalent_MicroDosimetry:
+    condition: "different paper_id AND abs(frequency_hz_a - frequency_hz_b) < 1e-3"
+    note: "Same carrier frequency and nominal dose do NOT guarantee equal internal tissue E-field or SAR across different wave modulations, applicators, or organ geometries."
+  P4_CrossStudy_WithinBand_Different_Carrier_Frequency_NonEquivalent_Dispersion:
+    condition: "different paper_id AND same broad band AND frequency_hz_a != frequency_hz_b"
+    note: "Different carrier frequencies have distinct tissue permittivity, conductivity, penetration depth, and standing-wave SAR profiles; non-equivalence is a lack of physical equivalence, not an automatic proof of different biological effect."
+  P5_CrossRegime_Different_Frequency_Band_or_Static_Contrast:
+    condition: "different paper_id AND different coupling_modality"

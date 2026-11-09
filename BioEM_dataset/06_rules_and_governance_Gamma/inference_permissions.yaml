@@ -1,0 +1,9 @@
+# Query & Inference Permission Enforcement Rules (P_allow_forbid, v3.0-1103)
+rule_version: "tri-anchored-v3-repaired-1103"
+global_guards:
+  transitivity_locked: true
+  allow_unvalidated_effect_prediction: false
+  allow_cross_study_meta_analytic_dose_pooling: false
+  treat_nonsignificant_vs_significant_as_proven_interaction: false
+  treat_frequency_non_equivalence_as_proven_effect_difference: false
+  empty_curated_cell_interpretation: "curation_coverage_boundary_not_literature_absence"

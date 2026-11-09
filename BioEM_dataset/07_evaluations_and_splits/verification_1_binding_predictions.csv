@@ -1,0 +1,376 @@
+﻿split_id,study_id,observation_id,method_id,method_label,correct_subfields_count,total_subfields_count,observation_fully_bound,SF01_Exact_Frequency_and_Waveform,SF02_Arm_Dose_and_Internal_Status,SF03_Subject_Subset_and_Generation,SF04_Replicate_Batch_and_Arm_ID,SF05_Preparation_and_Compartment,SF06_Assay_Channel_and_Controlled_Target,SF07_Process_Time_Ratio_and_Lag,SF08_Effect_Direction_vs_Control,SF09_Statistical_Status_Decoupled,SF10_Page_and_Line_Provenance
+holdout_test_set_9studies_30obs,E1,E1.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E1,E1.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,E1,E1.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,1,0,1,1,0,0,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,1,0,1,0,0,0,1
+holdout_test_set_9studies_30obs,E1,E1.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,E1,E1.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,0,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,0,1,0,1,0,0,0,0
+holdout_test_set_9studies_30obs,E1,E1.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,E1,E1.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E1,E1.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,E1,E1.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.5,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E1,E1.5,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,E1,E1.5,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.5,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E1,E1.5,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,E2,E2.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,1,0,1,0,0,1,0,0,0
+dev_set_13studies_45obs,E2,E2.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,E2,E2.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,1,0,1,0,0,1,0,0,0
+dev_set_13studies_45obs,E2,E2.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,E2,E2.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,1,0,1,0,0,1,0,0,0
+dev_set_13studies_45obs,E2,E2.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E2,E2.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,E2,E2.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,1,0,1,0,0,1,0,0,0
+dev_set_13studies_45obs,E2,E2.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E2,E2.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E2,E2.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E3,E3.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,E3,E3.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E3,E3.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,E3,E3.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",4,10,0,0,0,1,1,0,1,0,0,0,1
+holdout_test_set_9studies_30obs,E3,E3.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,E3,E3.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",6,10,0,1,0,1,1,1,0,0,0,1,1
+holdout_test_set_9studies_30obs,E3,E3.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E3,E3.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E4,E4.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,E4,E4.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E4,E4.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E4,E4.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E4,E4.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E4,E4.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,0,1,1,0,0,0,1
+dev_set_13studies_45obs,E4,E4.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E4,E4.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E4,E4.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E4,E4.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E4,E4.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,E4,E4.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E4,E4.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E4,E4.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E4,E4.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E5,E5.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E5,E5.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",8,10,0,1,1,1,1,0,1,1,1,1,0
+holdout_test_set_9studies_30obs,E5,E5.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,0,1,0,1,1,1
+holdout_test_set_9studies_30obs,E5,E5.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E5,E5.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E5,E5.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,E5,E5.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",8,10,0,1,1,1,1,0,1,1,1,1,0
+holdout_test_set_9studies_30obs,E5,E5.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,0,1,0,1,1,1
+holdout_test_set_9studies_30obs,E5,E5.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,E5,E5.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E6,E6.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,E6,E6.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,1,1,0,0,0,0,0
+dev_set_13studies_45obs,E6,E6.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,0,1,1,1,1
+dev_set_13studies_45obs,E6,E6.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E6,E6.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E6,E6.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,E6,E6.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,1,1,0,0,0,0,0
+dev_set_13studies_45obs,E6,E6.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,1,0,1,1,1,0,0,1,1
+dev_set_13studies_45obs,E6,E6.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E6,E6.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E6,E6.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,E6,E6.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,1,1,0,0,0,0,0
+dev_set_13studies_45obs,E6,E6.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,1,0,1,1,1,0,0,1,1
+dev_set_13studies_45obs,E6,E6.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E6,E6.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E7,E7.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,0,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E7,E7.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,E7,E7.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E7,E7.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,0,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E7,E7.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E7,E7.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E7,E7.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,0,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E7,E7.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E7,E7.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E7,E7.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",4,10,0,1,0,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E7,E7.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E7,E7.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E7,E7.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E8,E8.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E8,E8.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,E8,E8.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E8,E8.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E8,E8.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,E8,E8.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,0,1,0,0,0,0
+dev_set_13studies_45obs,E8,E8.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E8,E8.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,E8,E8.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,E8,E8.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,E8,E8.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,E8,E8.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,E8,E8.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N5,N5.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",4,10,0,0,0,1,0,1,1,0,0,0,1
+dev_set_13studies_45obs,N5,N5.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",7,10,0,1,0,1,0,1,1,1,1,1,0
+dev_set_13studies_45obs,N5,N5.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,N5,N5.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N5,N5.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N5,N5.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",4,10,0,0,0,1,0,1,1,0,0,0,1
+dev_set_13studies_45obs,N5,N5.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",7,10,0,1,0,1,0,1,1,1,1,1,0
+dev_set_13studies_45obs,N5,N5.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,N5,N5.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N5,N5.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,N6,N6.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,1,0,0,0,0,1,0,0,0
+dev_set_13studies_45obs,N6,N6.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,0,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,N6,N6.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,1,0,0,0,0,1,0,0,0
+dev_set_13studies_45obs,N6,N6.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,0,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,N6,N6.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,1,0,0,0,0,1,0,0,0
+dev_set_13studies_45obs,N6,N6.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,N6,N6.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,N6,N6.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,1,0,0,0,0,1,0,0,0
+dev_set_13studies_45obs,N6,N6.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,0,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,N6,N6.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,N6,N6.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,1,1,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,1,1,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,1,1,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,0,0,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,1,1,0,0,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F1,F1.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,0,0,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F1,F1.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,0,1,0,0,0,0,0
+dev_set_13studies_45obs,F2,F2.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F2,F2.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,F2,F2.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.2a,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,0,1,0,0,0,0,0
+dev_set_13studies_45obs,F2,F2.2a,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F2,F2.2a,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,F2,F2.2a,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.2a,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.2b,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,0,1,0,0,0,0,0
+dev_set_13studies_45obs,F2,F2.2b,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F2,F2.2b,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,F2,F2.2b,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.2b,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,0,1,0,0,0,0,0
+dev_set_13studies_45obs,F2,F2.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,1,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F2,F2.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,F2,F2.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F2,F2.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F3,F3.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,1,1,1,0,0,0,0,0
+holdout_test_set_9studies_30obs,F3,F3.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F3,F3.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F3,F3.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F3,F3.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F3,F3.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,1,1,1,0,0,0,0,0
+holdout_test_set_9studies_30obs,F3,F3.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F3,F3.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F3,F3.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F3,F3.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,1,0,1,0,0,0,1
+holdout_test_set_9studies_30obs,F4,F4.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,F4,F4.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F4,F4.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,F4,F4.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F4,F4.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,F4,F4.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,1,0,1,0,0,0,1
+holdout_test_set_9studies_30obs,F4,F4.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,F4,F4.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.5,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F4,F4.5,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,F4,F4.5,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.5,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.5,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.6,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F4,F4.6,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,0,1,0,1,0,1,1,0
+holdout_test_set_9studies_30obs,F4,F4.6,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,0,0,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.6,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F4,F4.6,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,0,1,1,0,0,0,1
+holdout_test_set_9studies_30obs,F5,F5.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+holdout_test_set_9studies_30obs,F5,F5.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,0,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+holdout_test_set_9studies_30obs,F5,F5.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+holdout_test_set_9studies_30obs,F5,F5.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,0,1,1,0,0,0,1
+holdout_test_set_9studies_30obs,F5,F5.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",3,10,0,1,0,0,0,1,0,1,0,0,0
+holdout_test_set_9studies_30obs,F5,F5.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F5,F5.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,1,1,1,0,0,0,0,0
+holdout_test_set_9studies_30obs,F6,F6.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F6,F6.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,0,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,1,1,1,0,0,0,0,0
+holdout_test_set_9studies_30obs,F6,F6.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F6,F6.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,0,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,1,1,1,0,0,0,0,0
+holdout_test_set_9studies_30obs,F6,F6.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F6,F6.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,0,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F6,F6.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F7,F7.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,F7,F7.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F7,F7.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",9,10,0,1,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,F7,F7.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F7,F7.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F7,F7.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",3,10,0,0,0,0,0,1,1,0,0,0,1
+dev_set_13studies_45obs,F7,F7.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F7,F7.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",6,10,0,0,0,1,1,1,1,0,1,0,1
+dev_set_13studies_45obs,F7,F7.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F7,F7.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F7,F7.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,F7,F7.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",2,10,0,0,0,0,0,1,0,1,0,0,0
+dev_set_13studies_45obs,F7,F7.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,1,1,1,1,0,0,1,1
+dev_set_13studies_45obs,F7,F7.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F7,F7.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F8a,F8a.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F8a,F8a.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F8a,F8a.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,1,0,0,1,1,1
+holdout_test_set_9studies_30obs,F8a,F8a.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F8a,F8a.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F8a,F8a.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+holdout_test_set_9studies_30obs,F8a,F8a.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",9,10,0,1,1,1,1,1,1,1,1,1,0
+holdout_test_set_9studies_30obs,F8a,F8a.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,1,0,1,1,1,0,0,1,1,1
+holdout_test_set_9studies_30obs,F8a,F8a.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+holdout_test_set_9studies_30obs,F8a,F8a.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F8b,F8b.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,F8b,F8b.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,1,1,1,0,1,0,0,0
+dev_set_13studies_45obs,F8b,F8b.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,F8b,F8b.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F8b,F8b.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F8b,F8b.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,F8b,F8b.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,1,1,1,0,1,0,0,0
+dev_set_13studies_45obs,F8b,F8b.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,F8b,F8b.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F8b,F8b.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F8b,F8b.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",0,10,0,0,0,0,0,0,0,0,0,0,0
+dev_set_13studies_45obs,F8b,F8b.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,1,1,1,0,1,0,0,0
+dev_set_13studies_45obs,F8b,F8b.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,F8b,F8b.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,F8b,F8b.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R2,R2.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,0,0,1,1,0,0,0,0,0,0
+dev_set_13studies_45obs,R2,R2.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,1,1,1,0,1,0,0,0
+dev_set_13studies_45obs,R2,R2.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,0,1,1,1,1,1
+dev_set_13studies_45obs,R2,R2.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R2,R2.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R2,R2.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",4,10,0,0,0,1,1,0,1,0,0,0,1
+dev_set_13studies_45obs,R2,R2.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",6,10,0,1,1,1,1,1,0,1,0,0,0
+dev_set_13studies_45obs,R2,R2.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,0,1,1,0,1,1,1,1,1
+dev_set_13studies_45obs,R2,R2.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R2,R2.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R4,R4.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,1,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,R4,R4.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,0,1,1,0,1,0,0,0
+dev_set_13studies_45obs,R4,R4.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,1,0,1,1,1
+dev_set_13studies_45obs,R4,R4.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R4,R4.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R4,R4.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,1,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,R4,R4.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,0,1,1,0,1,0,0,0
+dev_set_13studies_45obs,R4,R4.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,1,0,1,1,1
+dev_set_13studies_45obs,R4,R4.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R4,R4.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R4,R4.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",2,10,0,1,0,0,1,0,0,0,0,0,0
+dev_set_13studies_45obs,R4,R4.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",5,10,0,1,1,0,1,1,0,1,0,0,0
+dev_set_13studies_45obs,R4,R4.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,1,1,0,1,1,1,0,1,1,1
+dev_set_13studies_45obs,R4,R4.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R4,R4.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.1,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.1,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.1,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,0,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,R6,R6.1,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.1,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.2,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.2,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.2,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,0,1,1,1,1,1,0,0,1,1
+dev_set_13studies_45obs,R6,R6.2,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.2,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.3,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.3,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.3,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,0,1,1,1,1,1,0,0,1,1
+dev_set_13studies_45obs,R6,R6.3,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.3,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.4,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.4,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.4,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",7,10,0,0,1,1,1,1,1,0,0,1,1
+dev_set_13studies_45obs,R6,R6.4,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.4,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.5,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.5,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.5,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",8,10,0,0,1,1,1,1,1,0,1,1,1
+dev_set_13studies_45obs,R6,R6.5,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.5,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.6,M1_Legacy_SingleRecord_JSON,"配置1：历史单记录LLM抽取JSON (Legacy Single-Record JSON, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.6,M2_PaperLevel_Broadcast_Table,"配置2：论文级条件广播宽表 (Paper-Level 1-Row Broadcast Table, E3 Baseline)",1,10,0,0,0,0,0,1,0,0,0,0,0
+dev_set_13studies_45obs,R6,R6.6,M3_Unedited_Rule_AutoBinder,"配置3：未人工修正的确定性规则自动绑定器 (Unedited Rule Auto-Binder, E3 Auto Output)",6,10,0,0,1,1,1,1,1,0,0,0,1
+dev_set_13studies_45obs,R6,R6.6,M4_ObsLevel_IsoInfo_Flat_Table,"配置4：观察级同信息关系宽表 (Observation-Level Iso-Information Table, E2/E3 Control)",10,10,1,1,1,1,1,1,1,1,1,1,1
+dev_set_13studies_45obs,R6,R6.6,M5_Curated_Reference_KG_E2,"配置5：人工核验三锚点参考资源 (Curated Reference Resource, E2 Reference Benchmark)",10,10,1,1,1,1,1,1,1,1,1,1,1

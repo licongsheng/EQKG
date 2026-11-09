@@ -1,0 +1,27 @@
+{
+  "python_version": "3.12.3",
+  "platform": "Linux-6.8.0-100-generic-x86_64-with-glibc2.39",
+  "architecture": "x86_64",
+  "cpu_count_logical": 40,
+  "deterministic_seeds": {
+    "master_seed": 20261106,
+    "mps_hgb_seed": 19471,
+    "bioem_study_bootstrap_seed": 1103
+  },
+  "thread_isolation_env": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "PYTHONDONTWRITEBYTECODE": "1"
+  },
+  "package_versions": {
+    "numpy": "2.4.1",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "joblib": "1.5.3",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5"
+  }
+}

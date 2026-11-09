@@ -1,0 +1,5 @@
+﻿ablation_model_id,ablation_model_name_zh_en,total_graph_edges_in_2775_pool,benchmark_pairs_evaluated,link_precision_pct,link_recall_pct,link_f1_pct,cat4_false_link_error_rate_pct,cat3_missed_link_rate_pct,physical_status_accuracy_pct,biological_status_accuracy_pct,time_status_accuracy_pct,design_dependency_accuracy_pct,permission_appropriateness_pct,all_five_conditions_joint_accuracy_pct
+A1_Broad_Concept_10Buckets,消融1：宽泛概念10类匹配 (v1 Coarse 10-Bucket Matching),296,180,73.7,86.2,79.4,80.0,60.0,24.4,45.6,5.6,32.2,5.6,0.0
+A2_Controlled_Target_Only_No_Modifiers,消融2：仅28受控靶标匹配（无通路模块、无三锚点条件修饰）,184,180,100.0,85.4,92.1,0.0,50.0,27.8,89.4,27.8,53.9,27.8,27.8
+A3_Target_Plus_Obs_Physical_Design_No_Time,消融3：受控靶标+观察级物理与设计依赖（移除A_time生理时间模块）,203,180,100.0,100.0,100.0,0.0,0.0,100.0,100.0,45.6,100.0,45.6,45.6
+A4_Full_Tri_Anchored_v3_Repaired,完整模型：三锚点+受控靶标+过程时间+五类同文细分+权限门控 (v3 Repaired),203,180,100.0,100.0,100.0,0.0,0.0,100.0,100.0,100.0,100.0,100.0,100.0

@@ -1,0 +1,25 @@
+# Candidate Generation & Transition Rules (v3.0-1103)
+rule_version: "tri-anchored-v3-repaired-1103"
+input_granularity:
+  parent_comparisons: 75
+  atomic_measurements: 87
+  possible_unordered_parent_pairs: 2775
+candidate_generation:
+  within_study_pairs:
+    rule: "same paper_id (105 unordered pairs)"
+    stratification_required: true
+    allowed_relation_basis:
+      - same_unit_joint_measurement
+      - same_protocol_co_report
+      - explicit_arm_contrast
+      - independent_replication
+      - same_paper_co_report
+  cross_study_pairs:
+    legacy_v1_coarse_10_buckets: 191
+    v2_v3_controlled_28_target_and_pathway_candidates: 215
+    total_unique_transition_candidates_evaluated: 320
+    retained_total: 203
+    rejected_total: 117
+selection_invariants:
+  filter_by_effect_direction_concordance: false
+  filter_by_statistical_significance: false

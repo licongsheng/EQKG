@@ -1,0 +1,5 @@
+﻿stage,name,input,output
+Stage 1 (Sec 2.2),Five-Level Scope Decomposition,Raw Papers D,"H_V = (S:22, X:26, A:34, C:75, M:87)"
+Stage 2 (Sec 2.3),Tri-Anchored Weak-Linkage Construction,"Node Pairs (u, v)","Phi(u,v) = (phi_phys, phi_bio, phi_time) -> 203 Parent / 294 Atomic Edges"
+Stage 3 (Sec 2.4),Non-Transitive Calculus & Permission Guard,Candidate Paths p & Query q,"lambda_trans(p)=0 & omega_guard(p,q) -> Segmented Paths P_seg"
+Stage 4 (Sec 2.5),Dimensionless Phase-Space Projection,H_V & P_seg,"Pi(u) = (tau_exp, tau_lag, scale, prep) -> Barrier Discontinuities"

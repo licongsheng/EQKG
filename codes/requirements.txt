@@ -1,0 +1,8 @@
+# Python 3.12+ Environment Requirements for Evidence-Qualified Knowledge Graphs (EQKG)
+# Verified on Linux x86_64 (40 logical CPUs, Python 3.12.3)
+numpy==2.4.1
+scipy==1.17.0
+scikit-learn==1.8.0
+joblib==1.5.3
+matplotlib==3.10.8
+openpyxl==3.1.5

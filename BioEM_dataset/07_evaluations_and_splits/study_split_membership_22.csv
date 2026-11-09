@@ -1,0 +1,23 @@
+study_id,study_family_id,split,split_group_label,domain,citation_short,doi,paper_id,parent_comparisons_count,atomic_measurements_count
+E1,FAM_E1,holdout_test,holdout_9_studies,Neurobiology,"Leone et al., 2014 (Mol Neurobiol)",10.1007/s12035-014-8650-8,LeoneetalMolNeurobiol2014,5,7
+E2,FAM_E2,dev,dev_13_studies,Neurobiology,"Sun et al., 2016 (Sci Rep)",10.1038/srep21774,1392_28878_2016_Sun ZC_Extremely Low Frequency Electromagnetic Fields Facilita,4,4
+E3,FAM_E3,holdout_test,holdout_9_studies,Neurobiology,"Hu et al., 2016 (NeuroToxicology)",10.1016/j.neuro.2016.02.012,0569_28983_2016_Hu Y_Long-term exposure to ELF-MF ameliorates cognitive defi,3,4
+E4,FAM_E4,dev,dev_13_studies,Neurobiology,"Zhang et al., 2017 (Physiol Behav)",10.1016/j.physbeh.2017.05.033,1-s2.0-S0031938416312069-main,3,3
+E5,FAM_E5,holdout_test,holdout_9_studies,Neurobiology,"Varró et al., 2009 (Bioelectromagnetics)",10.1002/bem.20517,Bioelectromagnetics - 2009 - Varró - Changes in synaptic efficacy and seizure susceptibility in rat brain slices following,2,2
+E6,FAM_E6,dev,dev_13_studies,Neurobiology,"Li et al., 2014 (Environ Res)",10.1016/j.envres.2014.06.025,0147_25425_2014_Li C_The extremely low-frequency magnetic field exposure dif,3,4
+E7,FAM_E7,dev,dev_13_studies,Neurobiology,"Zeng et al., 2017 (Neurosci Bull)",10.1007/s12264-017-0113-6,0312_31449_2017_Zeng Y_Effects of Single and Repeated Exposure to a 50-Hz 2-mT,4,4
+E8,FAM_E8,dev,dev_13_studies,Neurobiology,"Ghione et al., 2005 (Neurosci Lett)",10.1016/j.neulet.2005.02.072,1132_11991_2005_Ghione S_Effects of 50 Hz electromagnetic fields on electroencep,4,4
+N5,FAM_N5,dev,dev_13_studies,Neurobiology,"Benfante et al., 2008 (Toxicol In Vitro)",10.1016/j.tiv.2008.05.003,"0184_16065_2008_Benfante R_The expression of PHOX2A, PHOX2B and of their target ge",2,2
+N6,FAM_N6,dev,dev_13_studies,Neurobiology,"Kim et al., 2021 (Int J Mol Sci)",10.3390/ijms22105340,10.3390_ijms22105340,4,4
+F1,FAM_F1,holdout_test,holdout_9_studies,Reproduction,"Houston et al., 2018 (Front Public Health)",10.3389/fpubh.2018.00270,"36249_2018_Houston BJ_Probing the Origins of 1,800 MHz Radio Frequency Electromagnetic Radiation Induced Damag",4,7
+F2,FAM_F2,dev,dev_13_studies,Reproduction,"Li et al., 2018 (Cell Physiol Biochem)",10.1159/000491660,000491660,4,4
+F3,FAM_F3,holdout_test,holdout_9_studies,Reproduction,"Forgács et al., 2006 (Reprod Toxicol)",10.1016/j.reprotox.2005.12.003,Effect_of_whole-body_1800MHz_GSM-like_microwave_exposure_on_testicular_steroidogenesis_and_histology_in_mice,2,2
+F4,FAM_F4,holdout_test,holdout_9_studies,Reproduction,"Wang et al., 2026 (Ecotoxicol Environ Saf)",10.1016/j.ecoenv.2026.120751,1-s2.0-S014765132601081X-main,6,7
+F5,FAM_F5,holdout_test,holdout_9_studies,Reproduction,"Imai et al., 2011 (Syst Biol Reprod Med)",10.3109/19396368.2010.544839,18880_2011_Imai N_Effects on rat testis of 1.95-GHz W-CDMA for IMT-2000 cellular phones med. bio,3,5
+F6,FAM_F6,holdout_test,holdout_9_studies,Reproduction,"Mailankot et al., 2009 (Clinics)",10.1590/S1807-59322009000600011,1-s2.0-S1807593222026151-main,3,3
+F7,FAM_F7,dev,dev_13_studies,Reproduction,"Nisbet et al., 2012 (Res Vet Sci)",10.1016/j.rvsc.2011.10.023,Effects_of_exposure_to_electromagnetic_field_(1.80.9_GHz)_on_testicular_function_and_structure_in_growing_rats,3,3
+F8a,FAM_F8a,holdout_test,holdout_9_studies,Reproduction,"Agarwal et al., 2009 (Fertil Steril)",10.1016/j.fertnstert.2008.01.074,Effects_of_radiofrequency_electromagnetic_waves_(RF-EMW)_from_cellular_phones_on_human_ejaculated_semen_an_in_vitro_pilot_study,2,4
+F8b,FAM_F8b,dev,dev_13_studies,Reproduction,"Erogul et al., 2006 (Arch Med Res)",10.1016/j.arcmed.2006.05.003,Effects_of_electromagnetic_radiation_from_a_cellular_phone_on_human_sperm_motility_an_in_vitro_study,3,3
+R2,FAM_R2,dev,dev_13_studies,Reproduction,"Geng et al., 2009 (IEEE Trans Magn)",10.1109/TMAG.2009.2024316,Effects_of_Electromagnetic_Field_of_UHV_Transmission_Lines_Exposure_on_Testis_Tissue_in_Mice,2,2
+R4,FAM_R4,dev,dev_13_studies,Reproduction,"Delli Muti et al., 2023 (Tissue Cell)",10.1016/j.tice.2023.102045,Can_extremely_low_frequency_magnetic_field_affect_human_sperm_parameters_and_male_fertility,3,3
+R6,FAM_R6,dev,dev_13_studies,Reproduction,"Nishimura et al., 2012 (Regul Toxicol Pharmacol)",10.1016/j.yrtph.2012.10.005,1-s2.0-S0273230012001912-main,6,6

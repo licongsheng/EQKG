@@ -1,0 +1,17 @@
+# Process-Specific Temporal Comparison Rules (A_time, v3.0-1103)
+rule_version: "tri-anchored-v3-repaired-1103"
+structured_fields_only: true
+tolerance_for_normalized_ratio_equality: 0.001
+status_codes:
+  T1_same_study_concurrent_window:
+    condition: "same paper_id AND equal exposure_days AND equal post_exposure_lag_days"
+  T2_both_acute_in_vitro_or_ex_vivo_windows_cycle_not_applicable:
+    condition: "normalization_applicability_a == 'not_applicable_acute_isolated_or_ex_vivo' AND normalization_applicability_b == 'not_applicable_acute_isolated_or_ex_vivo'"
+  T3_asymmetric_in_vivo_organ_process_vs_acute_isolated_window:
+    condition: "normalization_applicability_a != normalization_applicability_b"
+  T4a_same_reference_process_equal_normalized_ratio_and_lag:
+    condition: "same reference_process_id AND abs(normalized_exposure_ratio_a - normalized_exposure_ratio_b) < 0.001 AND abs(normalized_lag_ratio_a - normalized_lag_ratio_b) < 0.001"
+  T4b_same_reference_process_different_coverage_or_lag:
+    condition: "same reference_process_id AND (ratio differs OR lag differs)"
+  T5_distinct_species_or_developmental_reference_processes:
+    condition: "reference_process_id_a != reference_process_id_b"
